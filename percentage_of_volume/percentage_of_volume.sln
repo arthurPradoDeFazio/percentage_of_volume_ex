@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "percentage_of_volume", "percentage_of_volume\percentage_of_volume.csproj", "{714F040F-CE8D-4498-A378-AB60253C37B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{714F040F-CE8D-4498-A378-AB60253C37B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714F040F-CE8D-4498-A378-AB60253C37B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714F040F-CE8D-4498-A378-AB60253C37B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714F040F-CE8D-4498-A378-AB60253C37B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE34C122-1F81-4913-85A0-13F6997BC61F}
+	EndGlobalSection
+EndGlobal
